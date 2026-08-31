@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working People/ESPP.md",
+                "file": "Working People/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESPP"
+              "title": "Introduction"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working People/ESPP.md",
+                "file": "Working People/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,6 +193,7 @@
   },
   "active": "d80d27e0f9e900e2",
   "lastOpenFiles": [
+    "Working People/ESPP.md",
     "Working People/401K.md",
     "Working People/FSA.md",
     "Working People/HSA.md",
@@ -202,7 +203,6 @@
     "Working People/Order of Operations.md",
     "Working People/Roth vs Traditonal.md",
     "Untitled.md",
-    "Working People/ESPP.md",
     "Working People/Post vs Pre Tax Advantaged Accounts.md",
     "Useful Apps/Budgeting Apps.md",
     "Useful Apps/Experian + Credit Karma.md",

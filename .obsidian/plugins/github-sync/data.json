@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/RithvikR1218/USA-Living-Info.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": false
+}

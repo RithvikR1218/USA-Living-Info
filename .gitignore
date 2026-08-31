@@ -1,0 +1,9 @@
+# Ignore cache and workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db

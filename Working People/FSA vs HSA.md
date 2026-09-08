@@ -6,7 +6,7 @@ Main differences:
 - HSA is dependent on your health plan whereas the FSA is an employee benefit and can also be used with PPO or no insurance
 
 
-> [!Note:]
+> [!Note]
 > - If you're contributing to an HSA, you can't fund a health care FSA in the same year. But you can have an HSA along with a limited purpose FSA (LPFSA) if your employer offers it. 
 > - This type of FSA covers only those expenses not covered by your health plan, namely dental and vision expenses.
 

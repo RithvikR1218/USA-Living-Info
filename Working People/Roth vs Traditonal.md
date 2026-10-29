@@ -17,8 +17,6 @@ Similarly, we have a traditional 401(K) and a Roth 401(K)
 - All qualified withdrawals in retirement (contributions + earnings) are **100% tax-free**.
 - For a Roth IRA, you can withdraw your original contributions (principal) at any time, for any reason, penalty-free and tax-free.
 
-
-
 ## Which is better?
 - Im not really sure and people say different things
 - Everyone says have a mixture of both but thats up to you

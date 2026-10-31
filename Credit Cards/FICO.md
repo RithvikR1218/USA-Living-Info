@@ -19,6 +19,8 @@ Here are the most important factors:
 - It isn't worth taking out a loan such as car for the sake of opening more types of credit. If you can afford it, it isnt worth taking out the loan
 - There are other scores such as VantageScore but FICO is what most lenders use so make sure to track your FICO Score in particular
 - It is worth downloading the Experian app just to keep track of your credit score. Most banks also have the option to see your credit card but it might not show the FICO score though 
+- To ensure you dont have issues with interest, set up **Auto Pay with Statement Balance**
+- Statement Balance makes it pay the entire debt and ensures there is no debt carried over along with the interest payment
 
 ### Hard vs. Soft Inquiries
 - **Soft pulls** (checking your own score, or a lender pre-approving you) **do not** affect your score. 

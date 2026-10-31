@@ -19,7 +19,7 @@ These are the main points/rewards that we get from the credit cards and honestly
 
 # Why:
 - There is no right or wrong answer if you want to choose Cash Back or Miles and it should be based on your lifestyle
-- If you know that you arent planning on traveling and would rather just have the money, go for the Cash back
+- If you know that you aren't planning on traveling and would rather just have the money, go for the Cash back
 - If you plan on travelling often and know that the miles will get used, you can go for cash back
 - Just keep on mind for miles, its also to incentivize you to travel and you will automatically end up spending more which causes you to use the card more again
 - This means that if you are trying to save money for something or don't want to spend as much, cash back becomes a better option
